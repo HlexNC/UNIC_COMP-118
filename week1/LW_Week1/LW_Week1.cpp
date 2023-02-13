@@ -61,7 +61,7 @@ int main()
 		case 5:
 			cout << "\nSee you next time!" << endl;
 			return 0;
-			break // this is an error
+			break;
 		default:
 			break;
 		}
